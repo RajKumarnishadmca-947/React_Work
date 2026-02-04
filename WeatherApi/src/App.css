@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(196, 115, 8);
+}
+
+input{
+    padding: 7px;
+    border-radius: 5px;
+    font-size: larger;
+    width: 287px;
+    border-style: none;
+    background-color: rgb(235, 211, 180);
+}
+button{
+    margin-left:2px ;
+    padding: 7px;
+    border-radius: 5px;
+    font-size: larger;
+    border-style: none;
+    background-color:rgb(235, 211, 180);
+}
+body {
+    background-image: url("/public/image.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    text-align: center;
+    margin-top: 10px;
+    width: 370px;
+    height: 35vh;
+    box-shadow: 2px 4px 15px;
+    border-radius: 5px;
+    color: rgb(61, 40, 1);
+}
