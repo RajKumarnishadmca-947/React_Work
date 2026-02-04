@@ -1,0 +1,1 @@
+A simple React Weather Application that fetches real-time weather data using the WeatherAPI. Users can search for any city and view temperature, region, country, last updated time, and day/night status.
